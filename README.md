@@ -24,7 +24,7 @@ https://github.com/yoshi389111/github-profile-3d-contrib
 
 -->
 
-Welcome to my page! U can call me Pear/Peary, Computer En. from 🇹🇭 **Thailand**.
+Welcome to my page! U can call me Pear/Peary, Computer En. student from 🇹🇭 **Thailand**.
 
 **Things I code with**
 
