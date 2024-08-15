@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 https://github.com/yoshi389111/github-profile-3d-contrib
 ![](https://komarev.com/ghpvc/?username=ppearyxx=ff69b4&style=for-the-badge)
 
-[![ppearyxx’s github stats](https://github-readme-stats.vercel.app/api?username=ppearyxx)](https://github.com/ppearyxx)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppearyxx&layout=compact)](https://github.com/ppearyxx)
+
 -->
 
 Welcome to my page! U can call me Pear/Peary, Computer En. from 🇹🇭 **Thailand**.
@@ -43,5 +42,6 @@ Welcome to my page! U can call me Pear/Peary, Computer En. from 🇹🇭 **Thail
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-
+[![ppearyxx’s github stats](https://github-readme-stats.vercel.app/api?username=ppearyxx)](https://github.com/ppearyxx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppearyxx&layout=compact)](https://github.com/ppearyxx)
 
